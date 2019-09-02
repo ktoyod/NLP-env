@@ -23,7 +23,7 @@
 -t utf-8 hoge.csv
 ```
 
-### mecabrcにパスを通す
+### /usr/local/etc/mecabrcにパスを通す
 ```plain:/usr/local/etc/mecabrc
 userdic = /path/to/test.dic
 ```
