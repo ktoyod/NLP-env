@@ -16,7 +16,7 @@
   - `-f`: csvの文字コード
   - `-t`: バイナリ辞書の文字コード
 ```bash
-/usr/local/Celler/mecab/0.996/libexec/mecab/mecab-dict-index \
+/usr/local/Cellar/mecab/0.996/libexec/mecab/mecab-dict-index \
 -d /usr/local/lib/mecab/dic/ipadic \
 -u hoge.dic \
 -f utf-8 \
